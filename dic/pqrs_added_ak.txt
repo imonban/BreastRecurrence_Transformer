@@ -1,0 +1,257 @@
+2180	bone metastases	DRECUR
+2181	bone metastasis	DRECUR
+2182	bone mets	DRECUR
+2183	bone mets major	DRECUR
+2184	boney metastases	DRECUR
+2185	bony metastases	DRECUR
+2186	bony metastasis	DRECUR
+2187	bony metastatic disease	DRECUR
+2188	bony mets	DRECUR
+2189	brain metastases	DRECUR
+2190	brain metastasis	DRECUR
+2191	brain mets	DRECUR
+2193	diagnoses mets	DRECUR
+2194	diffuse metastatic	DRECUR
+2195	diffuse metastatic disease	DRECUR
+2196	diffuse skeletal mets	DRECUR
+2197	distant metastases	DRECUR
+2198	distant metastasis	DRECUR
+2199	distant metastatic	DRECUR
+2200	distant metastatic disease	DRECUR
+2201	distant metastatic spread	DRECUR
+2202	distant mets	DRECUR
+2203	distant recurr	DRECUR
+2204	distant recurrence	DRECUR
+2205	distant recurrences	DRECUR
+2206	distant relapse	DRECUR
+2207	distant sites	DRECUR
+2208	distant spread to	DRECUR
+2212	hepatic metastases	DRECUR
+2213	hepatic metastasis	DRECUR
+2214	hepatic mets	DRECUR
+2214 residual	DRECUR
+2216	liver metastases	DRECUR
+2217	liver metastasis	DRECUR
+2218	liver mets	DRECUR
+2221	lung metastases	DRECUR
+2222	lung metastasis	DRECUR
+2223	lung mets	DRECUR
+2224	lymph node metastases	DRECUR
+2225	lymph node metastasis	DRECUR
+2227	major secondary diagnoses mets	DRECUR
+228	intra-hepatic metastasis DRECUR
+229	hepatic mets	DRECUR 
+2228	mbc pulm	DRECUR
+2229	met nsclc	DRECUR
+2230	met nsclca	DRECUR
+2231	met rcc	DRECUR
+2232	metastatic adenoca	DRECUR
+2233	metastatic adenocarcinoma	DRECUR
+2234	metastatic cancer	DRECUR
+2235	metastatic disease	DRECUR
+2236	metastatic disease elsewhere	DRECUR
+2237	metastatic disease involving	DRECUR
+2238	metastatic disease involving bone	DRECUR
+2239	metastatic disease involving brain	DRECUR
+2240	metastatic disease involving liver	DRECUR
+2241	metastatic disease involving lung	DRECUR
+2242	metastatic dx	DRECUR
+2243	metastatic dz	DRECUR
+2244	metastatic endometrial	DRECUR
+2245	metastatic infiltrating ductal	DRECUR
+2246	metastatic infiltrating lobular	DRECUR
+2247	metastatic lobular carcinoma	DRECUR
+2248	metastatic lung	DRECUR
+2249	metastatic nsclc	DRECUR
+2250	metastatic poorly differentiated	DRECUR
+2251	metastatic rcc	DRECUR
+2252	metastatic spread	DRECUR
+2253	metastic disease	DRECUR
+2254	mets rcc	DRECUR
+2255	mrcc	DRECUR
+2257	newly diagnosed metastatic	DRECUR
+2258	newly diagnosed metastatic adenocarcinoma	DRECUR
+2259	newly diagnosed widely metastatic	DRECUR
+2260	nodal metastases	DRECUR
+2261	nodal metastasis	DRECUR
+2262	nodal mets	DRECUR
+2263	nsclc metastatic	DRECUR
+2264	nsclc mets	DRECUR
+2265	occult nodal metastases	DRECUR
+2266	osseous metastasis	DRECUR
+2267	osseous mets	DRECUR
+2271	positive for metastatic disease	DRECUR
+2272	prior treated metastases	DRECUR
+2274	pulm mets	DRECUR
+2275	pulmonary metastases	DRECUR
+2276	pulmonary metastasis	DRECUR
+2277	pulmonary mets	DRECUR
+2278	rcc s/p nephrectomy	RECUR
+2279	rcc s/p partial nephrectomy	RECUR
+2280	recently diagnosed metastatic	DRECUR
+2281	recently diagnosed widely metastatic	DRECUR
+2282	recurrent metastatic	DRECUR
+2286	sclerotic metastases	DRECUR
+2287	skeletal metastases	DRECUR
+2288	skeletal mets	DRECUR
+2289	spinal metastases	DRECUR
+2290	spinal mets	DRECUR
+2291	spine meta	DRECUR
+2292	spine metastases	DRECUR
+2293	spine mets	DRECUR
+2294	squamous cell cancer	DRECUR
+2295	squamous cell carcinoma	DRECUR
+2296	stage 4	DRECUR
+2297	stage iv	DRECUR
+2298	stage iva	DRECUR
+2299	stage ivb	DRECUR
+2300	stage4	DRECUR
+2304	widely metastatic	DRECUR
+2305	widely metastatic adenocarcinoma	DRECUR
+2306	widely metastatic breast ca	DRECUR
+2307	widely metastatic breast cancer	DRECUR
+2308	widely metastatic cancer	DRECUR
+2309	widely metastatic disease	DRECUR
+2310	widely metastatic squamous cell	DRECUR
+2311	widely metastatic triple	DRECUR
+2312	widespread metastases	DRECUR
+2313	widespread metastasis	DRECUR
+2314	widespread metastatic	DRECUR
+2315	widespread metastatic breast cancer	DRECUR
+2316	widespread metastatic disease	DRECUR
+2394	 l rcc	LRECUR
+2395	 l rcc s/p	LRECUR
+2396	 s iiib	LRECUR
+2397	 s iiic	LRECUR
+2398	 s3b	LRECUR
+2399	 s3c	LRECUR
+2400	an ibtr	LRECUR
+2401	an in-breast recurrence	LRECUR
+2402	ibtr	LRECUR
+2403	in-breast recurrence	LRECUR
+2404	in-breast recurrences	LRECUR
+2405	in-breast tumor recurrence	LRECUR
+2406	loca regional recurrences	LRECUR
+2407	local recur	LRECUR
+2408	local recurrence	LRECUR
+2409	local recurrences	LRECUR
+2410	local regiona recurrence	LRECUR
+2411	local regional failure	LRECUR
+2412	local regional recur	LRECUR
+2413	local regional recurrence	LRECUR
+2414	local regional recurrences	LRECUR
+2415	local regional relapse	LRECUR
+2416	local-regional recurrence	LRECUR
+2417	local/regional recurrence	LRECUR
+2418	locally recur	LRECUR
+2419	locally recurrent	LRECUR
+2420	locally recurrent disease	LRECUR
+2421	loco regional recur	LRECUR
+2422	loco regional recurrence	LRECUR
+2423	loco-regional disease	LRECUR
+2424	loco-regional failure	LRECUR
+2425	loco-regional recurrance	LRECUR
+2426	loco-regional recurrence	LRECUR
+2427	loco-regional relapse	LRECUR
+2428	locoregional disease	LRECUR
+2429	locoregional failure	LRECUR
+2430	locoregional recur	LRECUR
+2431	locoregional recurrence	LRECUR
+2432	locoregional relapse	LRECUR
+2433	 lrr	LRECUR
+2434	nodal recur	LRECUR
+2435	papillary rcc	LRECUR
+2436	regional metastasis	LRECUR
+2437	regional nodal irradiation	LRECUR
+2438	regional recur	LRECUR
+2439	regional recurrence	LRECUR
+2440	stage 3b	LRECUR
+2441	stage 3c	LRECUR
+2442	stage iiib	LRECUR
+2443	stage iiic	LRECUR
+2444	 mbc 	MBC
+2445	breast ca mets 	MBC
+2446	breast metastatic to	MBC
+2447	breast mets	MBC
+2448	met brca 	MBC
+2449	met breast ca	MBC
+2450	metastatic br ca	MBC
+2451	metastatic brca	MBC
+2452	metastatic breast	MBC
+2453	metastatic breast ca	MBC
+2454	metastatic breast cacner	MBC
+2455	metastatic breast cancer	MBC
+2456	metastatic breast carcinoma	MBC
+2457	metastatic disease involving multiple	MBC
+2458	metastatic tnbc	MBC
+2459	metastic breast ca	MBC
+2460	recurrent metastatic tnbc	MBC
+2476	 mets		METS
+2477	ca mets	METS
+2478	metastaic	METS
+2479	metastases	METS
+2480	metastasis	METS
+2481	metastasized METS
+2482	metastates	METS
+2483	metastatic	METS
+2484	metastatic deposit	METS
+2485	metastatic deposits	METS
+2486	metastatic foci	METS
+2487	metastatic focus	METS
+2488	metastatic involvement METS
+2489	metastatic lesion	METS
+2490	metastatic lesions	METS
+2491	metastatic lesoin	METS
+2492	metastatic lobular	METS
+2493	metastatis	METS
+2494	metasteses	METS
+2495	metastic	METS
+2496	metatstatic	METS
+2497	unknown primary	METS
+2498	unknown primary origin	METS
+2621	 rcc	RECUR
+2622	 recur	RECUR
+2623	h/o rcc	RECUR
+2624	multiple recurrences	RECUR
+2625	nodal recurrence	RECUR
+2626	nodal spread	RECUR
+2627	rapid recurrence		RECUR
+2628	rcc s/p	RECUR
+2629	rcc s/p partial	RECUR
+2630	rcc s/p radical	RECUR
+2631	rcc s/p resection	RECUR
+2632	recurred	RECUR
+2633	recurrence	RECUR
+2634	recurrences	RECUR
+2635	recurrent	RECUR
+2636	recurrent disease	RECUR
+2637	recurring	RECUR
+2638	reoccurrence	RECUR
+2639	metastatic/recurrent	OTHER
+2640	Leptomeningeal disease	OTHER
+2641	Leptomeningeal spread	OTHER
+2642	Cranial nerve involvement	OTHER
+2643	Pleural effusion	OTHER
+2644	Pericardial effusion	OTHER
+2645	Hypercalcemia	OTHER
+2646	Spinal cord compression	OTHER
+2647	Herniation	OTHER
+2648	Palliative radiation	OTHER
+2649	Palliative radiotherapy	OTHER
+2650	Palliative care	OTHER
+2651	Goals of care	OTHER
+2652	Pleurex catheter	OTHER
+2653	PleurX	OTHER
+2654	Thoracentesis	OTHER
+2655	Paracentesis	OTHER
+2656	Lumbar puncture	OTHER
+2661	Hospice	OTHER
+2662	End of life care		OTHER
+2663	End of life options act	OTHER
+2664	ELOA	OTHER
+2665	DNR/DNI	OTHER
+2666	DNR	OTHER
+2667	POLST	OTHER
+2668	Do not resuscitate	OTHER
+2669	Do not intubate	OTHER
+2670	Supplemental oxygen	OTHER
