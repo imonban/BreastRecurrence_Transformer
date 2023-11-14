@@ -5,7 +5,7 @@ In order to run the labeling code, please following the following steps -
 
 	1. Create the conda environment as - conda env create -f environment.yml 
  
-	2. Create a model and download the trained models there - [https://drive.google.com/drive/folders/1vEp5SsW93oX1hMDJkIq2qhQrnUOkqAdL?usp=sharing ](https://drive.google.com/drive/folders/1kCTKf2xN969EKwJ2lmnzBLbbrDzPw6qo?usp=sharing)
+	2. Create a model and download the trained models there - https://drive.google.com/drive/folders/1kCTKf2xN969EKwJ2lmnzBLbbrDzPw6qo?usp=sharing
  
 	3. Create a outcome folder
  
