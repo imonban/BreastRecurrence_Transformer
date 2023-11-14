@@ -2,6 +2,7 @@
 We developed a transformer based NLP method that enables identification of the occurrence and timing of metastatic breast cancer recurrence from EMRs. This approach may be adaptable to other cancer sites and could help to unlock the potential of EMRs for research on real-world cancer outcomes.
 
 In order to run the labeling code, please following the following steps -
+
 	1. Create the conda environment as - conda env create -f environment.yml 
  
 	2. Create a model and download the trained models there - https://drive.google.com/drive/folders/1vEp5SsW93oX1hMDJkIq2qhQrnUOkqAdL?usp=sharing 
