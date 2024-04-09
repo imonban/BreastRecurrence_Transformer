@@ -13,7 +13,7 @@ from nltk.corpus import stopwords
 import string 
 import sys
 import argparse
-from testing import clinicalmodeltest
+from training import clinicalmodeltest
 ## system argument checking
 
 def encoding(note):
