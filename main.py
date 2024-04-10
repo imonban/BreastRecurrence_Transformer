@@ -51,7 +51,7 @@ def main():
 
     # Parse the arguments
     args = parser.parse_args()
-    '''
+    
     print('Loading data....')
     ids = pd.read_csv(args.patid)
     ids = list(ids.ANON_ID)
@@ -94,11 +94,11 @@ def main():
     notes = clean(dfall)
     notes['NOTE_DATE'] =  pd.to_datetime(notes['NOTE_DATE'], errors = 'coerce')
 
-    notes = notes[notes['NOTE_DATE']> '2008-03-01']
+    #notes = notes[notes['NOTE_DATE']> '2008-03-01']
     del dfall
     Quarter = quarterdivision(notes)
     del notes
-    '''
+    
     ##classification
     Quarter = pd.read_csv('./outcome/quarters.csv')
     pred  = clinicalmodeltest(Quarter)
