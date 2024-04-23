@@ -66,7 +66,7 @@ def tokenizationBERT(df):
         label_dict[possible_label] = index
     input_ids = []
     attention_masks = []
-    for sentence in df['impression']:
+    for sentence in df['text']:
         encoded_sentence = tokenizer.encode_plus(
         sentence,
         add_special_tokens=True,
@@ -97,13 +97,13 @@ def tokenizationBERT_test(df):
     tokenizer = AutoTokenizer.from_pretrained("emilyalsentzer/Bio_ClinicalBERT", 
                                           do_lower_case=True)
     tokenizer.save_pretrained("clinicalbert_tokenizer")
-    possible_labels = df.Label.unique()
+    possible_labels = df.label.unique()
     label_dict = {}
     for index, possible_label in enumerate(possible_labels):
         label_dict[possible_label] = index
     input_ids = []
     attention_masks = []
-    for sentence in df['impression']:
+    for sentence in df['text']:
         encoded_sentence = tokenizer.encode_plus(
         sentence,
         add_special_tokens=True,
@@ -115,7 +115,7 @@ def tokenizationBERT_test(df):
         )
         input_ids.append(encoded_sentence['input_ids'])
         attention_masks.append(encoded_sentence['attention_mask'])
-    labels = list(df['Label'])
+    labels = list(df['label'])
     input_ids = torch.cat(input_ids, dim=0)
     attention_masks = torch.cat(attention_masks, dim=0)
     labels = torch.tensor(labels)
