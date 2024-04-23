@@ -253,13 +253,14 @@ def generate_label(preds):
 def clinicalmodeltest(df):
     df['Label'] =0
     model = BertForSequenceClassification.from_pretrained(
-        #"bert-base-uncased", # Use the 12-layer BERT model, with an uncased vocab.
-        "cliniclbert",
+        "bert-base-uncased", # Use the 12-layer BERT model, with an uncased vocab.
+        #"cliniclbert",
         num_labels = 2, # The number of output labels--2 for binary classification.
                         # You can increase this for multi-class tasks.   
         output_attentions = False, # Whether the model returns attentions weights.
         output_hidden_states = False, # Whether the model returns all hidden-states.
       )
+    model.load_state_dict(torch.load('./model/finetuned_ClinicalBERT_epoch_7.model'))
     dataset_val = tokenizationBERT_test(df)
     batch_size = 5
     dataloader_validation = DataLoader(dataset_val, 
