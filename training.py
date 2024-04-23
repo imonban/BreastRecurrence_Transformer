@@ -251,7 +251,7 @@ def generate_label(preds):
     return(preds)
 
 def clinicalmodeltest(df):
-    df['Label'] =0
+    df['label'] =0
     model_recurrence = torch.load('./model/clinicBERT_recurrence.pt')
     
     '''
@@ -281,4 +281,5 @@ def clinicalmodeltest(df):
     print(device)
     _, predictions, true_vals = evaluate(model, dataloader_validation, device)
     df['Prediction'] = generate_label(predictions)
+    df = df.drop(columns=['label'])
     return df
