@@ -243,7 +243,7 @@ def clinicalmodeltraining(df):
 
 
 def generate_label(preds):
-    col = ['Non-Acute', 'Acute', 'Critical']
+    col = ['Non-Recurrence', 'Recurrence']
     preds_flat = np.argmax(preds, axis=1).flatten()
     preds = []
     for p in preds_flat:
@@ -252,7 +252,7 @@ def generate_label(preds):
 
 def clinicalmodeltest(df):
     df['label'] =0
-    model_recurrence = torch.load('./model/clinicBERT_recurrence.pt')
+    model = torch.load('./model/clinicBERT_recurrence.pt')
     
     '''
     model = BertForSequenceClassification.from_pretrained(
@@ -281,5 +281,4 @@ def clinicalmodeltest(df):
     print(device)
     _, predictions, true_vals = evaluate(model, dataloader_validation, device)
     df['Prediction'] = generate_label(predictions)
-    df = df.drop(columns=['label'])
     return df
